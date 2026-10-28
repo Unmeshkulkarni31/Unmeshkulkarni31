@@ -155,6 +155,25 @@ Developing a task scheduling system to explore task management, queue processing
 - ⚙️ Developing my ongoing projects step by step.
 
 ---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt="Gradient divider"/>
+
+<br/>
+
+### 💻 BUILDING • LEARNING • EVOLVING
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mysql,mongodb,git,github&theme=dark" alt="My technology stack"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8957E5&center=true&vCenter=true&width=650&lines=Every+line+of+code+is+progress.;Building+skills+one+commit+at+a+time.;Curiosity+drives+innovation." alt="Animated developer motto"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
 
 ## 🤝 Let's Connect
 
